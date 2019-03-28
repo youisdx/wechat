@@ -1,1 +1,4 @@
-<text>曾志航</text>
+
+<view class="all" wx:for="{{users}}">
+  <view class="name">{{item.name}}</view>
+</view>

@@ -5,3 +5,10 @@ border-radius: 50%;
 }
 .weui-cell__ft {
 color: #000;}
+
+.name{
+  color: #000;
+  height: 30px;
+  width: 100%;
+  border-bottom: 1px solid #eee;
+}
