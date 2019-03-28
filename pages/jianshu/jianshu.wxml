@@ -1,2 +1,53 @@
 <!--pages/jianshu/jianshu.wxml-->
-<text>pages/jianshu/jianshu.wxml</text>
+<view class='container'>
+  <view class='content'>
+    <view class='user'>
+      <image src='/images/chs.jpg'></image>
+    </view>
+    <view class='top'>
+      <text>沧海水i</text>
+    </view>
+    <view class='LV'>
+      <text class='desc'>Lv1 城中平民</text>
+    </view>
+  </view>
+  <view class='balance'>
+    <view class='title'>
+      <text>简书钻余额</text>
+    </view>
+    <view class='num'>
+      <text>1.000</text>
+    </view>
+    <view class='change'>
+      <text>钻转贝</text>
+    </view>
+  </view>
+  <view class='navigation'>
+    <view class='task'>
+      <image src='/images/task.png'></image>
+      <view>任务中心</view>
+    </view>
+    <view class='zuan'>
+      <image src='/images/zuan.png'></image>
+      <view>买会员送钻</view>
+    </view>
+    <view class='rank'>
+      <image src='/images/rank.png'></image>
+      <view>排行榜</view>
+    </view>
+  </view>
+  <view class='offer'>
+    <view class='discount'>
+      <text class='dis'>低至15元首冲买会员</text>
+    </view>
+    <view class='buy'>
+      <text>去购买</text>
+    </view>
+  </view>
+  <view class='code'>
+    <view class='sao'>
+      <text>微信扫描添加小管家</text>
+    </view>
+    <image src='/images/code.png'></image>
+  </view>
+</view>
