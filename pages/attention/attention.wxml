@@ -1,0 +1,103 @@
+
+<view class="container">
+  <view class="content">
+    <view class="avatar">
+      <image src='/images/1.jpeg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >程序员</text>
+      <text class="desc">25篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">阿里前端工程师总结HTML5：meta标签</text>
+      </view>
+    </view>
+  </view>
+  <view class="content">
+    <view class="avatar">
+      <image src='/images/2.jpeg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >读书</text>
+      <text class="desc">99+篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">曾经夸口是豪门</text>
+      </view>
+    </view>
+  </view>
+  <view class="content">
+    <view class="avatar">
+      <image src='/images/3.jpeg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >短篇小说</text>
+      <text class="desc">32篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">春</text>
+      </view>
+    </view>
+  </view>
+  <view class="content">
+    <view class="avatar">
+      <image src='/images/4.jpeg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >简书电影</text>
+      <text class="desc">87篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">12岁的他，将父母告上法庭</text>
+      </view>
+    </view>
+  </view>
+  <view class="content">
+    <view class="avatar">
+      <image src='/images/5.jpg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >旅行·在路上</text>
+      <text class="desc">99+篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">今天下班去公园赏花</text>
+      </view>
+    </view>
+  </view>
+  <view class="content">
+    <view class="avatar">
+      <image src='/images/6.jpeg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >美食</text>
+      <text class="desc">45篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">今日份：锅贴</text>
+      </view>
+    </view>
+  </view>
+  <view class="content">
+    <view class="avatar">
+      <image src='/images/7.jpg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >连载小说</text>
+      <text class="desc">30篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">梦遇记(3)</text>
+      </view>
+    </view>
+  </view>
+ 
+
+</view>

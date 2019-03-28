@@ -1,12 +1,51 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/attention/attention",
+    "pages/jianshu/jianshu",
+    "pages/message/message",
+    "pages/user/user"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "images/home_normal.png",
+      "selectedIconPath": "images/home_pressed.png"
+    },
+    {
+      "pagePath": "pages/attention/attention",
+      "text": "关注",
+      "iconPath": "images/attention_normal.png",
+      "selectedIconPath": "images/attention_pressed.png"
+    },
+    {
+      "pagePath": "pages/jianshu/jianshu",
+      "text": "简书钻",
+      "iconPath": "images/jianshuzuan_normal.png",
+      "selectedIconPath": "images/jianshuzuan_pressed.png"
+    },
+    {
+      "pagePath": "pages/message/message",
+      "text": "消息",
+      "iconPath": "images/message_normal.png",
+      "selectedIconPath": "images/message_pressed.png"
+    },
+    {
+      "pagePath": "pages/user/user",
+      "text": "我的",
+      "iconPath": "images/me_normal.png",
+      "selectedIconPath": "images/me_pressed.png"
+    } ]
   }
+
+
 }
+
