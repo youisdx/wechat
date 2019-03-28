@@ -98,6 +98,19 @@
       </view>
     </view>
   </view>
- 
+ <view class="content">
+    <view class="avatar">
+      <image src='/images/7.jpg'></image>
+    </view>
+    <view class="user">
+      <view class="top">
+      <text >连载小说</text>
+      <text class="desc">30篇文章</text>
+      </view>
+      <view class="bottom">
+      <text class="desc">梦遇记(3)</text>
+      </view>
+    </view>
+  </view>
 
 </view>
