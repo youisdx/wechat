@@ -1,4 +1,5 @@
 <!--pages/jianshu/jianshu.wxml-->
+<<<<<<< HEAD
 <view class='container'>
   <view class='content'>
     <view class='user'>
@@ -51,3 +52,6 @@
     <image src='/images/code.png'></image>
   </view>
 </view>
+=======
+
+>>>>>>> 5afc78c4fb4e061e1faf0b93701d4f81f07c4dd9

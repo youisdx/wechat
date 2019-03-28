@@ -1,4 +1,5 @@
 /* pages/jianshu/jianshu.wxss */
+<<<<<<< HEAD
 
 .content {
   display: flex;
@@ -114,3 +115,5 @@
   height: 200px;
   text-align: center;
 }
+=======
+>>>>>>> 5afc78c4fb4e061e1faf0b93701d4f81f07c4dd9

@@ -1,2 +1,4 @@
-<!--pages/user/user.wxml-->
-<text>pages/user/user.wxml</text>
+
+<view class="all" wx:for="{{users}}">
+  <view class="name">{{item.name}}</view>
+</view>
